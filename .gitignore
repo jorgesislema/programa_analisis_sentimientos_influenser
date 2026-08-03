@@ -1,0 +1,43 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Variables de entorno (API Keys)
+.env
+
+# Dataset (archivos grandes)
+data/*.csv
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Cobertura de código
+.coverage
+htmlcov/
+
+# Distribución
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Agentes de IA
+.agents/
+.claude/
