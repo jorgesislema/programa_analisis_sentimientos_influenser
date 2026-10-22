@@ -4,7 +4,7 @@
 
 Este repositorio es material de un curso para personas sin experiencia en programación. Primero se observa el resultado de referencia; después el alumno define en papel su propia solución y la reconstruye con ayuda de IA. El objetivo es comprender la lógica y verificar si el programa cumple lo pedido.
 
-Lee README.md para ubicarte y CLASE_ALUMNO.md para seguir la experiencia del alumno. La guía docente está en `docs/docente/clase_desarrollar_programa_con_ia.md`. CLASE_OPENCODE_Y_CHAT.md contiene los prompts por hito y `docs/docente/CURSO_PROMPTS.md` conserva el diagnóstico y ampliaciones.
+Lee README.md para ubicarte y Apuntes.md para seguir la experiencia del alumno. La guía docente está en `docs/docente/clase_desarrollar_programa_con_ia.md`. CLASE_OPENCODE_Y_CHAT.md contiene los prompts por hito y `docs/docente/CURSO_PROMPTS.md` conserva el diagnóstico y ampliaciones.
 
 ## Idioma y explicaciones
 
