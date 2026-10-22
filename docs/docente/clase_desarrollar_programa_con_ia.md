@@ -2,7 +2,7 @@
 
 Proyecto: **Vibe Check**, un panel de comentarios con Python y Streamlit. Material para estudiantes sin experiencia en programación y guía para el docente. Actualizado el 22 de octubre de 2026.
 
-> **Versión de 2 horas.** Este documento conserva la guía extensa. Para la sesión única usa la ruta corta de [CLASE_ALUMNO.md](../../CLASE_ALUMNO.md) y [CLASE_OPENCODE_Y_CHAT.md](../../CLASE_OPENCODE_Y_CHAT.md): cuatro hitos, sin C11 ni publicación. El plan de la sección 7 es la versión larga.
+> **Versión de 2 horas.** Este documento conserva la guía extensa. Para la sesión única usa la ruta corta de [Apuntes.md](../../Apuntes.md) y [CLASE_OPENCODE_Y_CHAT.md](../../CLASE_OPENCODE_Y_CHAT.md): cuatro hitos, sin C11 ni publicación. El plan de la sección 7 es la versión larga.
 
 ## La idea que guía toda la clase
 
